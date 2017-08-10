@@ -1,0 +1,608 @@
+{
+  "table": [
+    {
+      "name": "Mac 'n Cheese",
+      "id": 0,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Butter",
+          "menge": 100,
+          "einheit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Maccaroni",
+          "menge": 250,
+          "einheit": "g"
+        },
+        {
+          "name": "Cheddar",
+          "menge": 100,
+          "einheit": "g"
+        },
+        {
+          "name": "Emmentaler",
+          "menge": 100,
+          "einheit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "menge": 100,
+          "einheit": "g"
+        },
+        {
+          "name": "Senf",
+          "menge": 1,
+          "einheit": "EL"
+        },
+        {
+          "name": "Wocestersauce",
+          "menge": 1,
+          "einheit": "EL"
+        },
+        {
+          "name": "Milch",
+          "menge": 250,
+          "einheit": "ml"
+        },
+        {
+          "name": "Paniermehl",
+          "menge": null,
+          "einheit": null
+        }
+      ],
+      "zubereitung": [
+        "Maccaroni al dente kochen",
+        "60g Butter in Topf schmelzen, 40g Mehl mit Schneebesen einrühren",
+        "Senf, Wocerstersauce und Milch nach und nach einrühreen ",
+        "Maccaroni abgießen, mit Käse und Sauce vermischen",
+        "40g Butter schmelzen und etwas Paniermehl darin anrösten",
+        "Paniermehl über Maccaroni geben, bei 180 Grad im Ofen knusprig backen"
+      ]
+    },
+    {
+      "name": "Blumenkohlsuppe mit Bacon",
+      "id": 1,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Blumenkohl",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 2,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Schalotten",
+          "menge": 2,
+          "einheit": null
+        },
+        {
+          "name": "Kokosmilch",
+          "menge": 300,
+          "einheit": "ml"
+        },
+        {
+          "name": "Rinder- oder Hühnerbrühe",
+          "menge": 500,
+          "einheit": "ml"
+        },
+        {
+          "name": "Bacon",
+          "menge": 8,
+          "einheit": " Scheiben"
+        },
+        {
+          "name": "Thymian",
+          "menge": 1,
+          "einheit": "EL"
+        }
+      ],
+      "zubereitung": [
+        "Blumenkohl, Knoblauch und Schalotten kleinschneiden und 20 Minuten im Ofen goldbraun rösten",
+        "Aus dem Ofen nehmen, im Topf mit Thymian und Brühe zum Kochen bringen",
+        "5 Min kochen lassen, dann mit dem Pürierstab pürieren und Kokosmilch zugeben",
+        "Bacon kross braten und über die fertige Suppe bröseln"
+      ]
+    },
+    {
+      "name": "Penne mit Rucolapesto und Bacon",
+      "id": 2,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Penne",
+          "menge": 250,
+          "einheit": "g"
+        },
+        {
+          "name": "Rucola",
+          "menge": 1,
+          "einheit": " Bund"
+        },
+        {
+          "name": "Bacon",
+          "menge": 8,
+          "einheit": " Streifen"
+        },
+        {
+          "name": "schwarze Oliven",
+          "menge": 10,
+          "einheit": null
+        },
+        {
+          "name": "Parmesan",
+          "menge": 25,
+          "einheit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Pinienkerne",
+          "menge": 15,
+          "einheit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "menge": 50,
+          "einheit": "ml"
+        }
+      ],
+      "zubereitung": [
+        "Wasser aufsetzen, Knoblauch fein hacken, Oliven halbieren, Käse reiben",
+        "einige Rucolablätter als Dekoration beiseite legen, Bacon kleinschneiden ",
+        "Pinienkerne kurz anrösten",
+        "Pinienkerne, Käse, Knoblauch und 50ml Olivenöl zusammen mit Rucola pürieren, mit 1 TL Salz und etwas Pfeffer würzen",
+        "Penne mit 1EL Salz kochen, Bacon währenddessen anbraten",
+        "Alles vermengen und mit Oliven, Käse und Rucolablättern garnieren"
+      ]
+    },
+    {
+      "name": "Pinienkernrisotto mit getrockneten Tomaten",
+      "id": 3,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Risottoreis",
+          "menge": 200,
+          "einheit": "g"
+        },
+        {
+          "name": "Basilikum",
+          "menge": 1,
+          "einheit": " Bund"
+        },
+        {
+          "name": "Schalotte",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Parmesan",
+          "menge": 25,
+          "einheit": "g"
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Pinienkerne",
+          "menge": 15,
+          "einheit": "g"
+        },
+        {
+          "name": "Mozarella",
+          "menge": 125,
+          "einheit": "g"
+        },
+        {
+          "name": "Butter",
+          "menge": 20,
+          "einheit": "g"
+        },
+        {
+          "name": "getrocknete Tomaten",
+          "menge": 50,
+          "einheit": "g"
+        },
+        {
+          "name": "Brühwürfel",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Pinienkerne",
+          "menge": 15,
+          "einheit": "g"
+        },
+        {
+          "name": "Weißwein",
+          "menge": 100,
+          "einheit": "ml"
+        }
+      ],
+      "zubereitung": [
+        "Getr. Tomaten in Scheiben schneiden, Öl aufbewahren. Knobi & Schalotte fein hacken",
+        "Parmesan reiben, Brühwürfel in 550ml Wasser auflösen",
+        "Pinienkerne ohne Öl 2 Min. anrösten",
+        "2EL Tomatenöl in Topf erhitzen, Schalotte, Knobi und Tomaten 1 Min bei mittlerer Temperatur anrösten",
+        "Risottoreis hinzugeben und 1 Minute mitbraten, mit Weißwein ablöschen",
+        "Nach und nach Brühe einrühren, der gesamte Prozess dauert etwa 18 Minuten",
+        "Währenddessen Mozarella kleinschneiden, mit Basilikum, Öl, Salz und Pfeffer vermengen",
+        "Risotto vom Herd nehmen, Butter, Hälfte de Pinienkerne und Parmesan unterheben",
+        "Mit Mozarella, Basilikum und restlichen Pinienkernen servieren"
+      ]
+    },
+    {
+      "name": "Tagliatelle mit Marsala, Steinpilzen und Serrano",
+      "id": 4,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Tagliatelle",
+          "menge": 250,
+          "einheit": "g"
+        },
+        {
+          "name": "Serrano",
+          "menge": 6,
+          "einheit": " Scheiben"
+        },
+        {
+          "name": "Schalotte",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Gran Padano",
+          "menge": 25,
+          "einheit": "g"
+        },
+        {
+          "name": "Marsala",
+          "menge": 100,
+          "einheit": "ml"
+        },
+        {
+          "name": "getrocknete Steinpilze",
+          "menge": 15,
+          "einheit": "g"
+        },
+        {
+          "name": "Brühwürfel",
+          "menge": 1,
+          "einheit": null
+        }
+      ],
+      "zubereitung": [
+        "Nudelwasser aufsetzen, Pilze in 200ml warmem Wasser einweichen, Brühwürfel in 100ml heißem Wasser auflösen",
+        "Schalotte und Knoblauch in feine Würfel schneiden, Käse fein reiben, Serrano in dünne Streifen schneiden",
+        "3 EL Öl in einer großen Pfanne erhitzen und Schalotten sowie Knoblauch 2 Min anbraten",
+        "Steinpilze abgießen und (ACHTUNG) Wasser aufbewahren. Pilze kleinschneiden",
+        "Pilze, Marsala, Pilwasser und Brühe in eine Pdanne geben und 5 Min bei starker Hitze einkochen",
+        "Tagliatelle ins Wasser geben und kochen, danach in die Pfanne dazugeben und vermengen",
+        "Schnikenstreifen dazugeben und mit 1/2 TL Salz und Pfeffer würzen, mit geriebenem Käse garnieren"
+      ]
+    },
+    {
+      "name": "Burritos à la Ben",
+      "id": 5,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Burritowraps",
+          "menge": 6,
+          "einheit": null
+        },
+        {
+          "name": "Hackfleisch",
+          "menge": 400,
+          "einheit": "g"
+        },
+        {
+          "name": "Tomaten",
+          "menge": 3,
+          "einheit": null
+        },
+        {
+          "name": "reife Avocado",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "geriebenen Käse",
+          "menge": 100,
+          "einheit": "g"
+        },
+        {
+          "name": "Schmand",
+          "menge": 200,
+          "einheit": "ml"
+        },
+        {
+          "name": "Taco Sauce",
+          "menge": null,
+          "einheit": null
+        },
+        {
+          "name": "Rucola",
+          "menge": 1,
+          "einheit": " Bund"
+        }
+      ],
+      "zubereitung": [
+        "Hackfleisch würzen und anbraten, Tomate und Avocado in Würfel schneiden",
+        "Burrito dünn mit Schmand bestreichen, mit Reibekäse bestreuen und im Ofen bei 100 Grad erwärmen",
+        "Mit Zutaten und Sauce befüllen, einrollen – fertig"
+      ]
+    },
+    {
+      "name": "Flammkuchen mit Bergkäse, Blattspinat und Champignons",
+      "id": 6,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Flammkuchenteig",
+          "menge": null,
+          "einheit": null
+        },
+        {
+          "name": "Babyspinat",
+          "menge": 50,
+          "einheit": "g"
+        },
+        {
+          "name": "braune Champignons",
+          "menge": 8,
+          "einheit": null
+        },
+        {
+          "name": "Frühlingszwiebel",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Crème Fraiche",
+          "menge": 150,
+          "einheit": "g"
+        },
+        {
+          "name": "Bergkäse",
+          "menge": 50,
+          "einheit": "g"
+        }
+      ],
+      "zubereitung": [
+        "Pilze und Frühlingszwiebeln in Ringe schneiden, Bergkäse reiben",
+        "Frühlingszwiebeln mit Crème fraiche vermengen und mit 1/2 TL Salz und Pfeffer würzen",
+        "Teig ausrollen, Frühlingszwiebel-Creme gleichmäßig verstreichen, Champignongs und Bergkäse darauf verteilen",
+        "Flammkuchen in den Ofen und bei 180 Grad knusprig backen",
+        "Babyspinat mit 1EL Öl, 1/4 Tl Salz und Pfeffer vermengen",
+        "fertigen Flammkuchen mit Spinat garnieren"
+      ]
+    },
+    {
+      "name": "Fusili in Kräuter-Walnuss-Pesto mit gebackenen Champignons und Pancetta",
+      "id": 7,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Fusili",
+          "menge": 250,
+          "einheit": "g"
+        },
+        {
+          "name": "braune Champignons",
+          "menge": 12,
+          "einheit": null
+        },
+        {
+          "name": "Oregano",
+          "menge": 1,
+          "einheit": " Bund"
+        },
+        {
+          "name": "Basilikum",
+          "menge": 1,
+          "einheit": " Bund"
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Pancetta",
+          "menge": 6,
+          "einheit": " Scheiben"
+        },
+        {
+          "name": "Frischkäse",
+          "menge": 40,
+          "einheit": "g"
+        },
+        {
+          "name": "Parmesan",
+          "menge": 25,
+          "einheit": "g"
+        },
+        {
+          "name": "Walnüsse",
+          "menge": 25,
+          "einheit": "g"
+        },
+        {
+          "name": "Olivenöl",
+          "menge": 10,
+          "einheit": "EL"
+        },
+        {
+          "name": "Weißweinessig",
+          "menge": 1,
+          "einheit": "EL"
+        }
+      ],
+      "zubereitung": [
+        "Ofen auf 160 Grad vorheizen, Wasser zum Kochen bringen",
+        "Champignons vierteln, Knoblauch fein und Walnüsse grob hacken, Oregano und Basilikum von den Stielen zupfen, Parmesan fein reiben",
+        "In einer Schale Champignons mit der Hälfte des Knoblauchs sowie 3EL Öl vermengen, mit 1/4TL Salz und Pfeffer würzen",
+        "Pancetta vierteln und zusammen mit Champignons auf ein Backblech in den Ofen schieben, 15 Minuten backen",
+        "Parallel Fusili mit 1EL Salz kochen",
+        "Oregano, Basilikum, Walnüsse, Frischkäse, 2/3 des Parmesans, verbliebenen Knoblauch, 7 EL Öl sowie 2 EL Pastawasser pürieren. Mit 1 TL Weißweinessig, Salz und Pfeffer abschmecken",
+        "Nudeln abgießen, Blech aus dem Ofen nehmen, Champignons in den Top geben und vermengen",
+        "Auf Teller anrichten und mit Pancetta und restlichem Parmesan bestreuen"
+      ]
+    },
+    {
+      "name": "Shakshuka",
+      "id": 8,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Zwiebel",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "rote Paprika",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Tomatenmark",
+          "menge": 1,
+          "einheit": "EL"
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 2,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Tomaten",
+          "menge": 4,
+          "einheit": null
+        },
+        {
+          "name": "Tomaten gestückelt",
+          "menge": 400,
+          "einheit": "ml"
+        },
+        {
+          "name": "Paprikapulver",
+          "menge": 1,
+          "einheit": "TL"
+        },
+        {
+          "name": "Eier",
+          "menge": 4,
+          "einheit": null
+        },
+        {
+          "name": "Petersilie",
+          "menge": 1,
+          "einheit": null
+        }
+      ],
+      "zubereitung": [
+        "Zwiebel und Knoblauch hacken, Paprika und Tomaten würfeln",
+        "In einer Pfanne anbraten und Tomatenmark dazugeben ",
+        "Parpika dazugeben und 5 Min. köcheln lassen",
+        "Tomaten hinzugeben und mit Parikapulver, Chili, Salz und Pfeffer würzen",
+        "Noch 10 Minuten weiterkochen lassen",
+        "Mit einem Löffel vier Mulden formen, vier Eier hineinschlagen",
+        "Deckel drauf und 6-8 Min. stocken lassen, mit Petersilie servieren"
+      ]
+    },
+    {
+      "name": "Chili-Garnelen Omelette",
+      "id": 9,
+      "onList": false,
+      "zutaten": [
+        {
+          "name": "Eier",
+          "menge": 6,
+          "einheit": null
+        },
+        {
+          "name": "Garnelen",
+          "menge": 125,
+          "einheit": "g"
+        },
+        {
+          "name": "Sahne (oder Milch)",
+          "menge": 3,
+          "einheit": "EL"
+        },
+        {
+          "name": "Tomaten",
+          "menge": 2,
+          "einheit": null
+        },
+        {
+          "name": "Avocado",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Käse",
+          "menge": 2,
+          "einheit": " Scheiben"
+        },
+        {
+          "name": "getr. Chilischote",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Limette",
+          "menge": 1,
+          "einheit": null
+        },
+        {
+          "name": "Knoblauch",
+          "menge": 1,
+          "einheit": " Zehe(n)"
+        },
+        {
+          "name": "Honig",
+          "menge": 1,
+          "einheit": "EL"
+        },
+        {
+          "name": "Koriander (optional)",
+          "menge": 1,
+          "einheit": " Bund"
+        }
+      ],
+      "zubereitung": [
+        "Eier mit Sahne verrühren, mit Salz, Pfeffer und Paprika würzen",
+        "Bei niedriger Temperatur in Pfanne geben und stocken lassen, Käse draufpacken",
+        "Tomaten, Avocado, Chili und Koriander kleischneiden",
+        "Garnelen mit Knoblauch, Chili und 1 EL Honig anbraten",
+        "Garnelen zusammen mit Tomaten und Avocado auf das fertige Omelette packen, mit Limette beträufeln, mit Koriander bestreuen",
+        "Noch 10 Minuten weiterkochen lassen",
+        "Mit einem Läffel vier Mulden formen, vier Eier hineinschlagen",
+        "Deckel drauf und 6-8 Min. stocken lassen, mit Petersilie servieren"
+      ]
+    }
+  ]
+}
